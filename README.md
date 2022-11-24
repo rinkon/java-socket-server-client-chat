@@ -11,7 +11,7 @@ run the server:
 ```console
 java ServerMTS
 ```
-run the clients:
+run the client:
 ```console
 java ClientMTS
 ```
